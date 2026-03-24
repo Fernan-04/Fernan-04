@@ -45,6 +45,10 @@
 🌐 Consumo de API externa  
 📊 Procesamiento de datos en tiempo real  
 
+<img style="height: 30%; width:30%;" alt="image" src="https://github.com/user-attachments/assets/5cca7336-0ced-457b-ada1-e7699ba62602" />
+
+
+
 [![Challenge-conversor-de-monedas](https://img.shields.io/badge/Conversor_Monedas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernan-04/Challenge-canversor-de-monedas.git)
 
 ---
