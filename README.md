@@ -11,7 +11,7 @@
 
 - **Backend:** Java, Spring Boot, Spring Security, JPA  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Herramientas:** Git, GitHub, Maven  
+- **Herramientas:** Git, GitHub 
 - **Bases de datos:** MySQL, PostgreSQL  
 - **Datos:** JSON  
 
