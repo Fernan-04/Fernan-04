@@ -9,7 +9,7 @@
 
 ## 🚀 Tecnologías
 
-- **Backend:** Java, Spring Boot, Spring Security, JPA  
+- **Backend:** Java, Spring Boot, Spring Security 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Herramientas:** Git, GitHub 
 - **Bases de datos:** MySQL, PostgreSQL  
