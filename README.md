@@ -86,7 +86,3 @@
 ## 🎯 Objetivo Profesional
 
 Desarrollarme como Full Stack Developer, construyendo aplicaciones completas, escalables y bien estructuradas utilizando Java, Spring Boot y tecnologías web.
-
----
-
-## 📫 Contacto
