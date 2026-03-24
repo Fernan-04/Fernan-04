@@ -17,6 +17,15 @@
 
 ---
 
+## 📊 Estadísticas
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernan-04&layout=compact&theme=dark" />
+</p>
+
+---
+
 ## 📌 Proyectos Destacados
 
 ## 🔹 challenge_foro
@@ -26,8 +35,8 @@
 🗄️ Persistencia con MySQL  
 
 [![challenge_foro](https://img.shields.io/badge/challenge_foro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernan-04/challenge_foro)
-
 ---
+
 
 ## 🔹 challenge_literatura
 
@@ -75,14 +84,7 @@
 
 [![juego-secreto](https://img.shields.io/badge/juego_secreto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernan-04/juego-secreto)
 
----
 
-## 📊 Estadísticas
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernan-04&layout=compact&theme=dark" />
-</p>
 
 
 ---
