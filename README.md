@@ -55,7 +55,7 @@
 🧑‍🤝‍🧑 Gestión de lista de participantes  
 🎲 Selección aleatoria del “Amigo Secreto”  
 
-<img style="height: 70%; width:50%;" alt="Captura de pantalla 2025-08-25 015304" src="https://github.com/user-attachments/assets/291ac3fc-9b09-40c4-880b-28a418fdcf77" />
+<img style="height: 30%; width:30%;" alt="Captura de pantalla 2025-08-25 015304" src="https://github.com/user-attachments/assets/291ac3fc-9b09-40c4-880b-28a418fdcf77" />
 
 [![Challenge-Amigo-secreto](https://img.shields.io/badge/Amigo_Secreto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernan-04/Challenge-Amigo-secreto.git)
 
@@ -67,7 +67,7 @@
 🧠 Lógica con JavaScript  
 🎲 Generación aleatoria de resultados  
 
-<img style="height: 60%; width:60%;" alt="image" src="https://github.com/user-attachments/assets/90c5cc82-1358-4c59-8405-6fee702d6d00" />
+<img style="height: 30%; width:30%;" alt="image" src="https://github.com/user-attachments/assets/90c5cc82-1358-4c59-8405-6fee702d6d00" />
 
 [![juego-secreto](https://img.shields.io/badge/juego_secreto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernan-04/juego-secreto)
 
