@@ -121,7 +121,6 @@
 | ☁️ | OCI Certified Foundations Associate 2026 | Oracle | jun. 2026 |
 | 🌐 | CCNA: Introducción a las redes | Cisco | jul. 2026 |
 | ☕ | Programa ONE Tech Advanced (Java + Spring Boot) | Oracle Next Education · Alura | jun. 2026 |
-| 🎓 | Quinto Superior | UTP | 2026 |
 
 </details>
 
