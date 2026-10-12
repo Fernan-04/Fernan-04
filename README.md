@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Perú (UTP) — 6.º ciclo · Quinto Superior
+- 🎓 Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Perú (UTP)
 - ⚙️ Me especializo en **backend con Java y Spring Boot**, y en servicios de IA con **Python + FastAPI**
 - 🏗️ Construyo con **arquitectura hexagonal**, SDD y TDD
 - 🥇 Ganador del **Hackathon Internacional de IA UPADI 2026** (40+ equipos de Latinoamérica)
