@@ -163,12 +163,21 @@ Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Per
 
 ## Logros y certificaciones
 
-| Logro | Emisor | Fecha |
+<div align="center">
+  <img src="./assets/logros.svg" width="100%" alt="Logros y certificaciones" />
+</div>
+
+<details>
+<summary><b>Ver IDs de credenciales</b></summary>
+<br>
+
+| Certificación | Emisor | ID de credencial |
 |---|---|---|
-| **1er puesto** — Hackathon Internacional de IA | UPADI · CIP Lima | ago. 2026 |
-| CCNA: Introducción a las redes | Cisco | jul. 2026 |
-| OCI Certified Foundations Associate 2026 | Oracle | jun. 2026 |
-| Programa ONE Tech Advanced (Java + Spring Boot) | Oracle Next Education · Alura | jun. 2026 |
+| CCNA: Introducción a las redes | Cisco Networking Academy | `5fdaec46-6dfc-4bf0-9bfd-68e2770a9f16` |
+| OCI Certified Foundations Associate 2026 | Oracle | `OC8059561` |
+| Programa ONE Tech Advanced | Alura Latam | `fae97bef-42db-48b9-a059-7d80feb9a543` |
+
+</details>
 
 ---
 
