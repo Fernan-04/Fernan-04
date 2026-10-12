@@ -151,20 +151,10 @@ Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Per
 <table>
   <tr>
     <td width="55%" align="center">
-      <img src="./assets/stack-orbit.svg" width="100%" alt="Tech stack" />
+      <img src="./assets/stack-orbit.svg" width="420" alt="Tech stack" />
     </td>
-    <td width="45%" valign="middle">
-      <h3>Actualmente</h3>
-      <ul>
-        <li>Mantenimiento de <b>Orión Logistic</b> en producción</li>
-        <li>Desarrollando una versión propia y mejorada de <b>Fincoach</b></li>
-      </ul>
-      <h3>Aprendiendo</h3>
-      <ul>
-        <li>Inglés, rumbo al nivel intermedio</li>
-      </ul>
-      <h3>Cloud</h3>
-      <p>Oracle Cloud · Supabase · Vercel</p>
+    <td width="45%" align="center" valign="middle">
+      <img src="./assets/status-panel.svg" width="400" alt="Estado actual" />
     </td>
   </tr>
 </table>
