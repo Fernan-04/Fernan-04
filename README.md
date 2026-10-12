@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=Hola,%20soy%20Jos%C3%A9%20Eduardo%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/Fernan-04">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=380&lines=%3E+Backend+Developer;%3E+Java+%26+Spring+Boot;%3E+1er+puesto+Hackathon+IA+UPADI;%3E+Arquitectura+Hexagonal+%C2%B7+TDD;%3E+Python+%2B+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=380&lines=%3E+Backend+Developer;%3E+Java+%26+Spring+Boot;%3E+Arquitectura+Hexagonal+%C2%B7+TDD;%3E+Python+%2B+FastAPI" alt="Typing SVG" />
 </a>
 
 <p>
@@ -23,11 +23,11 @@
 
 ## Sobre mí
 
-Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Perú (UTP), enfocado en **desarrollo backend con Java y Spring Boot** y en servicios de IA con **Python y FastAPI**. Construyo con arquitectura hexagonal, SDD y TDD.
+Soy desarrollador backend y estudiante de **Ingeniería de Software** en la UTP. Antes de escribir código, me enfoco en entender bien el problema: por eso trabajo con especificaciones y pruebas desde el inicio (**SDD y TDD**) y diseño con **arquitectura hexagonal**, para que el sistema sea fácil de mantener y de cambiar. Esa forma de trabajar me ha servido especialmente bajo presión, en hackathons de 72 horas, donde hay que decidir rápido sin perder calidad.
 
-- Ganador del **Hackathon Internacional de IA UPADI 2026**, entre más de 40 equipos de Latinoamérica
-- Desarrollador backend de **Orión Logistic**, un sistema en producción para una empresa de courier
-- Lima, Perú · Abierto a oportunidades part-time y por contrato
+Trabajo mejor en equipo: la mayoría de mis proyectos los he construido en grupo o con *pair programming*, y como voluntario en **LEAD UTP** coordino espacios de aprendizaje colaborativo. También participé como debatiente en un debate interuniversitario. Aprendo de forma constante: en 2026 obtuve certificaciones de **Oracle Cloud** y **Cisco** y completé el programa **ONE de Oracle y Alura**, mientras sigo mis estudios.
+
+<sub>Lima, Perú · Abierto a oportunidades part-time y por contrato</sub>
 
 ---
 
@@ -148,16 +148,11 @@ Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Per
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td width="55%" align="center">
-      <img src="./assets/stack-orbit.svg" width="420" alt="Tech stack" />
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="./assets/status-panel.svg" width="400" alt="Estado actual" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/stack-orbit.svg" width="400" alt="Tech stack" />
+  &nbsp;&nbsp;
+  <img src="./assets/status-panel.svg" width="380" alt="Estado actual" />
+</p>
 
 ---
 
@@ -178,28 +173,6 @@ Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Per
 | Programa ONE Tech Advanced | Alura Latam | `fae97bef-42db-48b9-a059-7d80feb9a543` |
 
 </details>
-
----
-
-## Actividad en GitHub
-
-<br>
-
-<div align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Fernan-04&show_icons=true&custom_title=Mi%20actividad&hide=stars,issues,contribs&show=prs_merged&include_all_commits=true&count_private=true&hide_rank=true&card_width=400&hide_border=true&border_radius=12&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&locale=es" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernan-04&layout=compact&langs_count=4&custom_title=Lenguajes%20m%C3%A1s%20usados&card_width=400&hide_border=true&border_radius=12&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&locale=es" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=Fernan-04&locale=es&hide_current_streak=true&card_width=820&card_height=170&hide_border=true&border_radius=12&background=0F172A&stroke=38BDF8&ring=38BDF8&fire=38BDF8&sideNums=38BDF8&sideLabels=CBD5E1&dates=94A3B8" />
-</div>
-
-<br>
-
----
 
 ---
 
