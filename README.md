@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# Hola, soy José Eduardo Díaz 👋
+# Hola, soy José Eduardo 👋
 
 <a href="https://github.com/Fernan-04">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;%F0%9F%A5%87+1er+puesto+Hackathon+Internacional+de+IA+UPADI;Arquitectura+Hexagonal+%C2%B7+SDD+%C2%B7+TDD;Python+%2B+FastAPI+para+servicios+de+IA" alt="Typing SVG" />
@@ -10,7 +10,6 @@
 <p>
   <a href="https://www.linkedin.com/in/jose-eduardo-diaz-fernandez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:diazfernan02042005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Fernan-04&style=for-the-badge&color=38BDF8&label=Visitas" />
 </p>
 
 </div>
