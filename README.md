@@ -23,11 +23,7 @@
 
 ## Sobre mí
 
-Soy desarrollador backend y estudiante de **Ingeniería de Software** en la UTP. Antes de escribir código, me enfoco en entender bien el problema: por eso trabajo con especificaciones y pruebas desde el inicio (**SDD y TDD**) y diseño con **arquitectura hexagonal**, para que el sistema sea fácil de mantener y de cambiar. Esa forma de trabajar me ha servido especialmente bajo presión, en hackathons de 72 horas, donde hay que decidir rápido sin perder calidad.
-
-Trabajo mejor en equipo: la mayoría de mis proyectos los he construido en grupo o con *pair programming*, y como voluntario en **LEAD UTP** coordino espacios de aprendizaje colaborativo. También participé como debatiente en un debate interuniversitario. Aprendo de forma constante: en 2026 obtuve certificaciones de **Oracle Cloud** y **Cisco** y completé el programa **ONE de Oracle y Alura**, mientras sigo mis estudios.
-
-<sub>Lima, Perú · Abierto a oportunidades part-time y por contrato</sub>
+Desarrollador backend y estudiante de **Ingeniería de Software** en la UTP. Antes de escribir código me enfoco en entender bien el problema: trabajo con especificaciones y pruebas desde el inicio (**SDD y TDD**) y diseño con **arquitectura hexagonal**, una forma de trabajar que me ha servido incluso bajo presión, en hackathons de 72 horas. Disfruto construir en equipo y, como voluntario en **LEAD UTP**, coordino espacios de aprendizaje colaborativo.
 
 ---
 
@@ -149,18 +145,17 @@ Trabajo mejor en equipo: la mayoría de mis proyectos los he construido en grupo
 ## Tech Stack
 
 <p align="center">
-  <img src="./assets/stack-orbit.svg" width="400" alt="Tech stack" />
-  &nbsp;&nbsp;
-  <img src="./assets/status-panel.svg" width="380" alt="Estado actual" />
+  <img src="./assets/stack-orbit.svg" width="440" alt="Tech stack" />
 </p>
 
 ---
 
 ## Logros y certificaciones
 
-<div align="center">
-  <img src="./assets/logros.svg" width="100%" alt="Logros y certificaciones" />
-</div>
+- **1er puesto — Hackathon Internacional de IA UPADI** · CIP Lima, ago. 2026 · entre 40+ equipos de Latinoamérica
+- CCNA: Introducción a las redes · Cisco · jul. 2026
+- OCI Certified Foundations Associate 2026 · Oracle · jun. 2026
+- Programa ONE Tech Advanced (Java + Spring Boot) · Oracle Next Education · Alura · jun. 2026
 
 <details>
 <summary><b>Ver IDs de credenciales</b></summary>
@@ -176,13 +171,6 @@ Trabajo mejor en equipo: la mayoría de mis proyectos los he construido en grupo
 
 ---
 
-<div align="center">
-
-```bash
-[jose@arch ~]$ echo $MOTTO
-"Construyo backends limpios, testeables y listos para producción."
-```
-
-</div>
+<p align="center"><i>Construyo backends limpios, testeables y listos para producción.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer" width="100%" />
