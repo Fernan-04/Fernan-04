@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=Hola,%20soy%20Jos%C3%A9%20Eduardo%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/Fernan-04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=380&lines=Backend+Developer;Java+%26+Spring+Boot;%F0%9F%A5%87+1er+puesto+Hackathon+IA+UPADI;Arquitectura+Hexagonal+%C2%B7+TDD;Python+%2B+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=380&lines=%3E+Backend+Developer;%3E+Java+%26+Spring+Boot;%3E+1er+puesto+Hackathon+IA+UPADI;%3E+Arquitectura+Hexagonal+%C2%B7+TDD;%3E+Python+%2B+FastAPI" alt="Typing SVG" />
 </a>
 
 <p>
@@ -15,29 +15,28 @@
 
 </div>
 
----
-
-## 🧑‍💻 Sobre mí
-
-- 🎓 Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Perú (UTP)
-- ⚙️ Me especializo en **backend con Java y Spring Boot**, y en servicios de IA con **Python + FastAPI**
-- 🏗️ Construyo con **arquitectura hexagonal**, SDD y TDD
-- 🥇 Ganador del **Hackathon Internacional de IA UPADI 2026** (40+ equipos de Latinoamérica)
-- 📍 Lima, Perú · Abierto a oportunidades part-time / contrato
-
-### 🔭 Actualmente
-
-- 📦 Dando mantenimiento a **Orión Logistic**, sistema en producción
-- 🌱 Mejorando mi inglés
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal de José" />
+</div>
 
 ---
 
-## 🚀 Proyectos destacados
+## Sobre mí
+
+Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Perú (UTP), enfocado en **desarrollo backend con Java y Spring Boot** y en servicios de IA con **Python y FastAPI**. Construyo con arquitectura hexagonal, SDD y TDD.
+
+- Ganador del **Hackathon Internacional de IA UPADI 2026**, entre más de 40 equipos de Latinoamérica
+- Desarrollador backend de **Orión Logistic**, un sistema en producción para una empresa de courier
+- Lima, Perú · Abierto a oportunidades part-time y por contrato
+
+---
+
+## Proyectos destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🥇 KNexus Engine</h3>
+      <h3>KNexus Engine</h3>
       <p>Motor de IA que descubre y explica conexiones entre proyectos, tesis e investigadores universitarios, rastreando cada conexión hasta el dato que la sustenta. <b>1er puesto — Hackathon UPADI.</b></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -45,7 +44,7 @@
         <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
       </p>
       <details>
-        <summary><b>🔍 Mi aporte</b></summary>
+        <summary><code>$ git log --author=jose</code></summary>
         <ul>
           <li>Desarrollo backend en un equipo de 3, construido en 72 horas</li>
           <li>Arquitectura hexagonal con dominio puro y testeable</li>
@@ -53,10 +52,10 @@
           <li>Reranking explicable con features auditables</li>
         </ul>
       </details>
-      <a href="https://github.com/JoaquinStudent/k-nexus-engine">📂 Repositorio</a>
+      <a href="https://github.com/JoaquinStudent/k-nexus-engine">Repositorio →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 Orión Logistic</h3>
+      <h3>Orión Logistic</h3>
       <p>Sistema web en <b>producción</b> para una empresa de importación y courier Miami–Perú (~1,000 pedidos/mes).</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -64,19 +63,19 @@
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       </p>
       <details>
-        <summary><b>🔍 Mi aporte</b></summary>
+        <summary><code>$ git log --author=jose</code></summary>
         <ul>
           <li>Autenticación con JWT y Spring Security</li>
           <li>Modelado de entidades JPA sobre PostgreSQL (Supabase)</li>
           <li>Digitaliza un flujo que antes era manual (correos, hojas de cálculo y WhatsApp)</li>
         </ul>
       </details>
-      <a href="https://orionlogisticperu.com/">🌐 Ver en producción</a>
+      <a href="https://orionlogisticperu.com/">Ver en producción →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 FinanceAI</h3>
+      <h3>FinanceAI</h3>
       <p>Asistente de salud financiera personal — Hackathon Oracle Next Education (130 h). Backend hexagonal + microservicio de Machine Learning.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -84,17 +83,17 @@
         <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
       </p>
       <details>
-        <summary><b>🔍 Mi aporte</b></summary>
+        <summary><code>$ git log --author=jose</code></summary>
         <ul>
           <li>Desarrollo backend con Spring Boot en arquitectura hexagonal</li>
           <li>Integración con un microservicio de ML en Python (FastAPI + Scikit-Learn)</li>
           <li>Base de datos MySQL desplegada en Oracle Cloud</li>
         </ul>
       </details>
-      <a href="https://github.com/No-Country-simulation/G9-LATAM-Team-14">📂 Repositorio</a>
+      <a href="https://github.com/No-Country-simulation/G9-LATAM-Team-14">Repositorio →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 Markdocs</h3>
+      <h3>Markdocs</h3>
       <p>Convierte PDF, Word, PowerPoint y Excel a Markdown limpio en segundos, sin registro y sin guardar archivos.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -102,26 +101,26 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
       <details>
-        <summary><b>🔍 Mi aporte</b></summary>
+        <summary><code>$ git log --author=jose</code></summary>
         <ul>
           <li>Proyecto individual full stack, construido en 1 semana</li>
           <li>Backend de conversión en Python + FastAPI, frontend en Next.js 14</li>
           <li>Privacidad por diseño: no almacena los archivos del usuario</li>
         </ul>
       </details>
-      <a href="https://conversor-documentos-one.vercel.app/">🌐 Probar demo</a>
+      <a href="https://conversor-documentos-one.vercel.app/">Probar demo →</a>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>📁 Ver más proyectos</b></summary>
+<summary><b>Ver más proyectos</b></summary>
 <br>
 
 <table>
   <tr>
     <td valign="top">
-      <h3>🗣️ Sentiment API</h3>
+      <h3>Sentiment API</h3>
       <p>Gateway REST reactivo que consume un modelo de ML para analizar sentimientos de reseñas en <b>español y portugués</b>, idiomas que la mayoría de herramientas existentes deja de lado.</p>
       <p>
         <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -131,14 +130,14 @@
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
       <details>
-        <summary><b>🔍 Mi aporte</b></summary>
+        <summary><code>$ git log --author=jose</code></summary>
         <ul>
           <li>Refactor en equipo hacia arquitectura hexagonal (dominio, aplicación, infraestructura y presentación)</li>
           <li>Consumo reactivo del modelo de ML en Python/FastAPI con WebClient</li>
           <li>Seguridad con JWT y BCrypt, validación con Jakarta Validation</li>
         </ul>
       </details>
-      <a href="https://github.com/Jona-9/Sentiment-API---Project">📂 Repositorio</a>
+      <a href="https://github.com/Jona-9/Sentiment-API---Project">Repositorio →</a>
     </td>
   </tr>
 </table>
@@ -147,45 +146,43 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Backend (dominio principal)**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,mysql&theme=dark" />
-</p>
-
-**Frontend y herramientas**
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,angular,tailwind,flutter,git,github,maven&theme=dark" />
-</p>
-
-**Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-## 🏆 Logros y certificaciones
-
-<details open>
-<summary><b>Ver lista</b></summary>
-<br>
-
-| | Logro | Emisor | Fecha |
-|---|---|---|---|
-| 🥇 | 1er puesto — Hackathon Internacional de IA | UPADI · CIP Lima | ago. 2026 |
-| ☁️ | OCI Certified Foundations Associate 2026 | Oracle | jun. 2026 |
-| 🌐 | CCNA: Introducción a las redes | Cisco | jul. 2026 |
-| ☕ | Programa ONE Tech Advanced (Java + Spring Boot) | Oracle Next Education · Alura | jun. 2026 |
-
-</details>
+<table>
+  <tr>
+    <td width="55%" align="center">
+      <img src="./assets/stack-orbit.svg" width="100%" alt="Tech stack" />
+    </td>
+    <td width="45%" valign="middle">
+      <h3>Actualmente</h3>
+      <ul>
+        <li>Mantenimiento de <b>Orión Logistic</b> en producción</li>
+        <li>Desarrollando una versión propia y mejorada de <b>Fincoach</b></li>
+      </ul>
+      <h3>Aprendiendo</h3>
+      <ul>
+        <li>Inglés, rumbo al nivel intermedio</li>
+      </ul>
+      <h3>Cloud</h3>
+      <p>Oracle Cloud · Supabase · Vercel</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Mi actividad en GitHub
+## Logros y certificaciones
+
+| Logro | Emisor | Fecha |
+|---|---|---|
+| **1er puesto** — Hackathon Internacional de IA | UPADI · CIP Lima | ago. 2026 |
+| CCNA: Introducción a las redes | Cisco | jul. 2026 |
+| OCI Certified Foundations Associate 2026 | Oracle | jun. 2026 |
+| Programa ONE Tech Advanced (Java + Spring Boot) | Oracle Next Education · Alura | jun. 2026 |
+
+---
+
+## Actividad en GitHub
 
 <br>
 
@@ -205,8 +202,15 @@
 
 ---
 
+---
+
 <div align="center">
-  <i>“Construyo backends limpios, testeables y listos para producción.”</i>
+
+```bash
+[jose@arch ~]$ echo $MOTTO
+"Construyo backends limpios, testeables y listos para producción."
+```
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer" width="100%" />
