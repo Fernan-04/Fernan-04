@@ -133,7 +133,6 @@
   <br>
   <img src="https://streak-stats.demolab.com?user=Fernan-04&theme=tokyonight&hide_border=true" />
   <br>
-  <img src="https://ghchart.rshah.org/38BDF8/Fernan-04" width="95%" alt="Gráfico de contribuciones" />
 </div>
 
 ---
